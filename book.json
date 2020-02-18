@@ -1,0 +1,11 @@
+{
+    "plugins": ["theme-default"],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        }
+    },
+    "structure": {
+        "readme": "intro.md"
+    }
+}
